@@ -54,6 +54,8 @@ Make sure to mention the following:
   - Has first `<HEAD>` then `<BODY>` tags within it
   - `<TITLE>` must go inside of `<HEAD>`
   - Some tags must go inside of other tags: LI must go inside of UL or OL
+  - Some tags must go inside of other tags: LI must go inside of UL or OL
+  - How to comment - useful with nested elements  
 - Semantics
   - When things are ordered, use `<OL>`. 
   - If it’s a header, use an `<H#>`. 
