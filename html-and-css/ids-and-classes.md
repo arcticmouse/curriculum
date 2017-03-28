@@ -21,7 +21,7 @@ I want to style tags differently that have the same name.
 - css selector for class is ".class-name"
 - css selector for id is "#id-name"
 - css selectors can be chained together: "p#id-name.class-name.another-class-name"
-
+- specificity
 
 ### Materials
 
